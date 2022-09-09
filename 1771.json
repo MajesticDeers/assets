@@ -1,0 +1,75 @@
+{
+  "name": "Majestic Deers #1772",
+  "edition": 1771,
+  "description": "A paradise only for those who are worthy. A place for only the most beautiful and majestic creatures that walks the NFT space.\n\nMajestic Deers is a collection of 2,222 NFTs—unique digital creatures roaming on the Solana blockchain.\n\nEach 2,222 deer will grant you exclusive access to the magical forest of Eden and all of the treasures that lies within.",
+  "external_url": "https://www.majesticdeers.com",
+  "image": "1771.png",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "No Attribute"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "Turd"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lipstick"
+    },
+    {
+      "trait_type": "Antlers",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Antlers Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Back",
+      "value": "No Back"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    }
+  ],
+  "rarity_rank": 1457,
+  "symbol": "MDC",
+  "seller_fee_basis_points": 800,
+  "properties": {
+    "files": [
+      {
+        "uri": "1771.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "45Qn3a7W5pDe5eQSCKETp6u859sptP2jAgVNwqNqg6S7",
+        "share": 80
+      },
+      {
+        "address": "6Hv121sDeWQz2YBT5m7WNRMPvt4N9TLDgyfVSMGdot8j",
+        "share": 20
+      }
+    ]
+  }
+}
