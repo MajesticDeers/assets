@@ -3,7 +3,7 @@
   "edition": 1771,
   "description": "A paradise only for those who are worthy. A place for only the most beautiful and majestic creatures that walks the NFT space.\n\nMajestic Deers is a collection of 2,222 NFTs—unique digital creatures roaming on the Solana blockchain.\n\nEach 2,222 deer will grant you exclusive access to the magical forest of Eden and all of the treasures that lies within.",
   "external_url": "https://www.majesticdeers.com",
-  "image": "1771.png",
+  "image": "https://raw.githubusercontent.com/MajesticDeers/assets/main/1771.png",
   "attributes": [
     {
       "trait_type": "Attribute",
@@ -63,12 +63,19 @@
     "category": "image",
     "creators": [
       {
+        "address": "HHUJGiVSJaAA11Ti58VmQAERJediGSZyFaETfcMdqvbt",
+        "share": 0,
+        "verified": true
+      },
+      {
         "address": "45Qn3a7W5pDe5eQSCKETp6u859sptP2jAgVNwqNqg6S7",
-        "share": 80
+        "share": 80,
+        "verified": true
       },
       {
         "address": "6Hv121sDeWQz2YBT5m7WNRMPvt4N9TLDgyfVSMGdot8j",
-        "share": 20
+        "share": 20,
+        "verified": true
       }
     ]
   }
